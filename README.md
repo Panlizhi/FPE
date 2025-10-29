@@ -1,7 +1,7 @@
 # Frequency Perturbation Entropy: A Method for Mitigating Hallucinations in Image Captioning via Frequency Perturbations
 
 <p align="center">
-    <img src="FPE/img/backbone.png" width="55%"> <br>
+    <img src="img/backbone.png" width="55%"> <br>
     The framework of Image captioning with Frequency Perturbation Entropy. This framework consists of three main components: a image encoder, a text generator, and a perturbation modeler
 </p>
 
@@ -46,7 +46,7 @@ data
 ## 5. Performance
 
 <p align="center">
-    <img src="FPE/img/performance.png" width="55%"> <br>
+    <img src="img/performance.png" width="55%"> <br>
     Performance on hallucination and in-domain captioning for base methods with FPE.
 </p>
 
@@ -55,11 +55,11 @@ data
 ## 6. Visualization
 
 <p align="center">
-    <img src="FPE/img/visualization1.png" width="55%"> <br>
+    <img src="img/visualization1.png" width="55%"> <br>
     The evolution of frequency perturbation when generating specific caption words during training. In each epoch, the perturbation modeler receives the low- and high-frequency maps and generated word sequences to model the frequency perturbation.
 </p>
 <p align="center">
-    <img src="FPE/img/visualization2.png" width="55%"> <br>
+    <img src="img/visualization2.png" width="55%"> <br>
     Visualization of frequency perturbation at each step of caption generation. (a) The inferencing results of GRIT with FPE. (b) The inferencing results of LLaVA-v1.5 with FPE.
 </p>
 
@@ -73,5 +73,5 @@ Woo Young Kang, [edwin.kang@kakaobrain.com](edwin.kang@kakaobrain.com)
 Jonghwan Mun, [jason.mun@kakaobrain.com](jason.mun@kakaobrain.com)
 
 
-## 8. License
+## 9. License
 This project is licensed under the terms of the [MIT License](./LICENSE).
