@@ -2,7 +2,7 @@
 
 <p align="center">
     <img src="img/backbone.png" width="55%"> <br>
-    The framework of Image captioning with Frequency Perturbation Entropy. This framework consists of three main components: a image encoder, a text generator, and a perturbation modeler
+    The framework of Image captioning with Frequency Perturbation Entropy. This framework consists of three main components: a image encoder, a text generator, and a perturbation modeler.
 </p>
 
 
@@ -69,9 +69,7 @@ data
 Our paper is submited and waiting to review.
 
 ## 8. Contact for Issues
-Woo Young Kang, [edwin.kang@kakaobrain.com](edwin.kang@kakaobrain.com)
-Jonghwan Mun, [jason.mun@kakaobrain.com](jason.mun@kakaobrain.com)
-
+Please feel free to contact with [panlz_bit@hotmail.com](panlz_bit@hotmail.com)
 
 ## 9. License
 This project is licensed under the terms of the [MIT License](./LICENSE).
