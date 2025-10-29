@@ -1,7 +1,7 @@
 # Frequency Perturbation Entropy: A Method for Mitigating Hallucinations in Image Captioning via Frequency Perturbations
 
 <p align="center">
-    <img src="img/backbone.png" width="55%"> <br>
+    <img src="img/backbone.png" width="100%"> <br>
     The framework of Image captioning with Frequency Perturbation Entropy. This framework consists of three main components: a image encoder, a text generator, and a perturbation modeler.
 </p>
 
@@ -55,11 +55,11 @@ data
 ## 6. Visualization
 
 <p align="center">
-    <img src="img/visualization1.png" width="55%"> <br>
+    <img src="img/visualization1.png" width="50%"> <br>
     The evolution of frequency perturbation when generating specific caption words during training. In each epoch, the perturbation modeler receives the low- and high-frequency maps and generated word sequences to model the frequency perturbation.
 </p>
 <p align="center">
-    <img src="img/visualization2.png" width="55%"> <br>
+    <img src="img/visualization2.png" width="90%"> <br>
     Visualization of frequency perturbation at each step of caption generation. (a) The inferencing results of GRIT with FPE. (b) The inferencing results of LLaVA-v1.5 with FPE.
 </p>
 
