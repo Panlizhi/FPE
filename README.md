@@ -17,7 +17,6 @@ You need to download images from each dataset and locate the images within data 
 ```bash
 data
 │─ cc3m
-│    │─ train_list_filtered_by_0.3.txt   # cc3m training annotation with filtering
 │    │─ train_list.txt                   # cc3m training annotation
 │    │─ val_list.txt                     # cc3m validation annotation
 │    │─ images                           # link to root directory for images
