@@ -1,4 +1,4 @@
-# Frequency Perturbation Entropy: A Method for Mitigating Hallucinations in Image Captioning via Frequency Perturbations
+# Mitigating Hallucinations in Image Captioning via Frequency Perturbation Entropy
 
 <p align="center">
     <img src="img/backbone.png" width="100%"> <br>
