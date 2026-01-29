@@ -82,7 +82,7 @@ python train_caption.py exp.name=caption_caption_FPE_GRIT_FINETUNE  \
 
 
 ## 7. Citation
-Our paper is submited and waiting to review.
+This paper is currently under review.
 
 ## 8. Contact for Issues
 Please feel free to contact with [panlz_bit@hotmail.com](panlz_bit@hotmail.com)
