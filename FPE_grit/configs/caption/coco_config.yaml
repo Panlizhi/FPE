@@ -51,7 +51,7 @@ model:
     visual_type: "ViT"  # "ViT", "CNN"
     gamma: 1
     visualization: False
-    num_layers: 14
+    num_layers: 12
 
     
 
