@@ -175,7 +175,7 @@ class Freq_Perturbation_Entropy(Module):
                 n_heads=n_heads,
                 d_ff=d_ff,
                 dropout=dropout,
-                num_layers=4
+                num_layers=cfg.num_layers
             )
         elif self.visual_type == "ResNet18":
             pass
