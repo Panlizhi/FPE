@@ -8,6 +8,7 @@
 In this paper, we study the cause of hallucinations from frequency domain and attribute them to the model’s susceptibility to the frequency perturbations, which manifesting as the generation of hallucinations with high uncertainty. Based on this finding, we introduce frequency perturbations into models to reduce sensitivity and propose a novel metric Frequency Perturbation Entropy (FPE) to reduce the language generation uncertainty when conditioned on these perturbations, thereby mitigating hallucinations. 
 
 #### NEWS：
+- 2025.11.14: The FPE paper is been accepted by ESWA.
 - 2025.11.14: The FPE paper is under review.
 - 2025.11.14: The code has been released.
 - 2025.11.01: The FPE's code repository was built.
