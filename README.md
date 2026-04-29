@@ -1,5 +1,7 @@
 # Mitigating Hallucinations in Image Captioning via Frequency Perturbation Entropy
 
+[Paper](https://doi.org/10.1016/j.eswa.2026.132544) | [Code](https://github.com/Panlizhi/FPE)
+
 <p align="center">
     <img src="img/backbone.png" width="100%"> <br>
     The framework of Image captioning with Frequency Perturbation Entropy. This framework consists of three main components: a image encoder, a text generator, and a perturbation modeler.
@@ -8,7 +10,7 @@
 In this paper, we study the cause of hallucinations from frequency domain and attribute them to the model’s susceptibility to the frequency perturbations, which manifesting as the generation of hallucinations with high uncertainty. Based on this finding, we introduce frequency perturbations into models to reduce sensitivity and propose a novel metric Frequency Perturbation Entropy (FPE) to reduce the language generation uncertainty when conditioned on these perturbations, thereby mitigating hallucinations. 
 
 #### NEWS：
-- 2025.11.14: The FPE paper is been accepted by ESWA.
+- 2026.04.20: The FPE paper is been accepted by Expert Systems with Applications.
 - 2025.11.14: The FPE paper is under review.
 - 2025.11.14: The code has been released.
 - 2025.11.01: The FPE's code repository was built.
