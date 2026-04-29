@@ -85,7 +85,19 @@ python train_caption.py exp.name=caption_caption_FPE_GRIT_FINETUNE  \
 
 
 ## 7. Citation
-This paper is currently under review.
+
+```python
+@article{PAN2026132544,
+title = {Mitigating hallucinations in image captioning via frequency perturbation entropy},
+journal = {Expert Systems with Applications},
+volume = {324},
+pages = {132544},
+year = {2026},
+issn = {0957-4174},
+doi = {https://doi.org/10.1016/j.eswa.2026.132544},
+author = {Lizhi Pan and Chengtian Song and Xiaozheng Gan and Keyu Xu and Mengqian Deng},
+}
+```
 
 ## 8. Contact for Issues
 Please feel free to contact with [panlz_bit@hotmail.com](panlz_bit@hotmail.com)
